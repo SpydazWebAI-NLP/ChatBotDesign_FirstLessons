@@ -1,3 +1,7 @@
+## This Project is fully functional and easy to compile with visual studio 
+
+This is a framwork and good introduction into basic chatbot design, from these lessons you can leapfrog to higher possibilitys. 
+
 ## UPDATED 2020 TUTORIAL SOURCE CODE >>>> HERE ##
 https://github.com/spydaz/Chatbot_2020_Tutorial
 
